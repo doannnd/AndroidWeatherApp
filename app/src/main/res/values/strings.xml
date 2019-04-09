@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidWeatherApp</string>
+    <string name="tab_today_weather_title">Today</string>
+    <string name="permisstion_denied_message">Permisstion denied</string>
+</resources>
